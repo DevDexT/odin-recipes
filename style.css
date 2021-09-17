@@ -1,0 +1,19 @@
+h1,
+h2 {
+    background-color: brown;
+    color: burlywood;
+    font-size: 36px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: rgb(155, 63, 63);
+    font-size: 24px;
+}
+
+p,
+li {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+}
